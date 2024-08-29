@@ -32,13 +32,4 @@ Main Script: All JavaScript functionalities are encapsulated within a single scr
 Variables and Functions: Carefully named to ensure clarity and ease of understanding.
 Comments: Inline comments are included to explain key parts of the code.
 
-Project Evaluation
 
-The project will be assessed based on the following criteria:
-
-Implementation of the required functionalities (start, stop, reset).
-Code quality, including structure, indentation, and naming conventions.
-Presence and quality of comments.
-Aesthetics and creativity in the design.
-Hosting on GitHub with a comprehensive README.md.
-A video presentation explaining the project and showcasing the final product.
